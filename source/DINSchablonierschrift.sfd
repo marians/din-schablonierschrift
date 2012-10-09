@@ -3,8 +3,10 @@ FontName: DINSchablonierschrift
 FullName: DIN Schablonierschrift
 FamilyName: DIN Schablonierschrift
 Weight: Book
-Copyright: Created by Marian Steinbach <marian@kisd.de>
-Version: Macromedia Fontographer 4.1 24.03.2004
+Copyright: Marian Steinbach <marian@sendung.de>
+FontLog: "Created by Marian Steinbach in 1997 based on metal stencils using font editor Manutius.+AAoACgAA-Exported to Mac/PC PostScript and TrueType on a Mac using Macromedia Fontographer in 2004.+AAoACgAA-Imported into FontForge using the TTF version on Oct 9, 2012.+AAoACgAA-Published as open source software by Marian on Oct 9, 2012." 
+Version: 2012-10-09
+DefaultBaseFilename: DIN_Schablonierschrift
 ItalicAngle: 0
 UnderlinePosition: -50
 UnderlineWidth: 100
@@ -15,12 +17,12 @@ LayerCount: 2
 Layer: 0 1 "Back"  1
 Layer: 1 1 "Zeichenebene"  0
 XUID: [1021 428 2041439603 3690171]
-FSType: 2
+FSType: 8
 OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1080096720
-ModificationTime: 1080096720
+ModificationTime: 1349774741
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -50,9 +52,10 @@ OS2SupXOff: 0
 OS2SupYOff: 453
 OS2StrikeYSize: 50
 OS2StrikeYPos: 259
-OS2Vendor: 'MACR'
+OS2Vendor: '    '
 OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 00000003.00000000.00000000.00000000
+MarkAttachClasses: 1
 DEI: 91125
 TtTable: prep
 NPUSHB
@@ -149,14 +152,17 @@ ShortTable: maxp 16
   1
   1
 EndShort
-LangName: 1033 "" "" "Regular" "Macromedia Fontographer 4.1 DIN Schablonierschrift" "" "Macromedia Fontographer 4.1 24.03.2004" 
+LangName: 1033 "" "" "Regular" 
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: Adobe Glyph List
-DisplaySize: -24
+DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 25 9
+WinInfo: 45 15 11
+BeginPrivate: 0
+EndPrivate
+TeXData: 1 0 0 369098 184549 123032 0 1048576 123032 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 BeginChars: 65540 53
 
 StartChar: .notdef
